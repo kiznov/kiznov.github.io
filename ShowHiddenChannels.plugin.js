@@ -23,11 +23,6 @@ module.exports = (_ => {
 			"author": "DevilBro",
 			"version": "3.0.0",
 			"description": "Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)"
-		},
-		"changeLog": {
-			"improved": {
-				"Sort Order": "Added a third option, which allows you to sort hidden channels in their native category BUT at the bottom of the category's own list"
-			}
 		}
 	};
 
